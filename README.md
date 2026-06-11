@@ -78,6 +78,20 @@ The dataset contains 100,000 transactions across multiple countries, card types,
 
 The analysis provides insights into customer behavior, fraud risk, and transaction performance. These findings can support fraud prevention strategies, customer segmentation, loyalty programs, and strategic decision-making.
 
+
+## SQL Analysis
+
+The project includes SQL queries used to:
+
+* Calculate KPI metrics
+* Analyze fraud rates
+* Identify top customers
+* Analyze country performance
+* Track monthly transaction trends
+* Evaluate merchant category fraud patterns
+
+The SQL file is available in this repository for reference.
+
 ---
 
 ## Author
